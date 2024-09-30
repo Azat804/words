@@ -11,6 +11,7 @@
 
 .header__nav-btn {
   font-size: 24px;
+  cursor:pointer;
 }
 
 .header__nav-link {
